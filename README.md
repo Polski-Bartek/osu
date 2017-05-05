@@ -1,10 +1,10 @@
 # osu
 My osu skin, avatar and configuration
-Skin: https://osu.ppy.sh/forum/t/486160/start=0 (re:Shigetora Update 2)
+Skin: https://osu.ppy.sh/forum/t/486160/start=0 (re:Shigetora Update 2) |
 Avatar by: Luisina
 
 Hardware:
-Graphics Tablet = Huion H420
+Graphics Tablet = Huion H420 |
 Keyboard = Natec Genesis RX66
 
 PC Specs:
