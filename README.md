@@ -13,6 +13,6 @@ Processor = Inter Core i5-6500 @ 3,20GHz
 
 
 Configuration: 
-Sensitive = 1.72x
+Sensitive = 1.72x |
 Cursor Size = 1x
 Resolution = 1336x768
